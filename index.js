@@ -8,8 +8,8 @@ function setThisWithApply(fn, thisValue, args){
 }
 
 function returnNewFunctionOf(functionToBeCopied, thisValue){
-  newValue = functionToBeCopied.bind(thisValue)
-  return newValue
+  newFunction = functionToBeCopied.bind(thisValue)
+  return newFunction
 }
 
 function justInvoke(fn){
