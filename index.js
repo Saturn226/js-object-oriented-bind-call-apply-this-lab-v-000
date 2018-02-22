@@ -1,15 +1,15 @@
-function invokeFunction(){
+// function invokeFunction(){
   
-}
+// }
 
-function setThisWithCall(){
+// function setThisWithCall(){
   
-}
+// }
 
-function setThisWithApply(){
+// function setThisWithApply(){
   
-}
+// }
 
-function returnNewFunctionOf(){
+// function returnNewFunctionOf(){
   
-}
+// }
