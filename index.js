@@ -2,9 +2,9 @@
   
 // }
 
-// function setThisWithCall(){
+function setThisWithCall(){
   
-// }
+}
 
 // function setThisWithApply(){
   
