@@ -12,4 +12,8 @@
 
 // function returnNewFunctionOf(){
   
-// }
+//}
+
+function justInvoke(fn){
+  return fn();
+}
