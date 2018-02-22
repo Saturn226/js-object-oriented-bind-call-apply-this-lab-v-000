@@ -2,4 +2,6 @@ function invokeFunction(){
   
 }
 
-function setThis
+function setThisWithCall(){
+  
+}
