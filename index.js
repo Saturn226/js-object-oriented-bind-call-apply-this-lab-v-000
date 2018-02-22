@@ -2,8 +2,8 @@
   
 // }
 
-function setThisWithCall(){
-  
+function setThisWithCall(fn, thisValue, arg){
+fn().call(thisValue, arg)
 }
 
 // function setThisWithApply(){
